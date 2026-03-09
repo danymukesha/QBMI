@@ -10,7 +10,7 @@ between spatial resolution and molecular depth in transcriptomics.
 The framework uses computational algorithms to assign mRNA molecules to cells 
 in 3D space without physically separating them.
 
-Here are some key feature of the tool:
+Here are some key features of the tool:
 
 - **SpatialAssignment**: to assign molecules to cells using 3D Euclidean distance
 - **GaussianKernelAssignment**: to use Bayesian inference for overlapping cell 
