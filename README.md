@@ -29,7 +29,7 @@ pip install qbmi
 Or install from source:
 
 ```bash
-git clone https://github.com/your-repo/qbmi.git
+git clone https://github.com/danymukesha/qbmi.git
 cd qbmi
 pip install -e .
 ```
